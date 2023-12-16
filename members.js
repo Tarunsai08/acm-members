@@ -27,8 +27,8 @@ const members = [
     profilePicture: "",
     role: "Chair Person",
     department: "Computer science and Engineering",
-    github: "https://github.com/Tarunsai08",
-    linkedin: "www.linkedin.com/in/tarunsai08",
+    github: "Tarunsai08",
+    linkedin: "tarunsai08",
     twitter: "",
   },
   {
